@@ -2,7 +2,7 @@
 
 ![header](/assets/header.png)
 
-This repo contains the training source code of 2nd solution of Kaggle Competition [TensorFlow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview), inference code can be found at this [Kaggle public notebook](https://www.kaggle.com/snaker/yolo-ensemle?scriptVersionId=87785527). Training code is modified directly on [YOLOv5](https://github.com/ultralytics/yolov5), so it may not be well organized.
+This repo contains the training source code of [2nd solution](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/discussion/307760) of Kaggle Competition [TensorFlow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview), inference code can be found at this [Kaggle public notebook](https://www.kaggle.com/snaker/yolo-ensemle?scriptVersionId=87785527). Training code is modified directly on [YOLOv5](https://github.com/ultralytics/yolov5), so it may not be well organized.
 
 ## Requirements
 
